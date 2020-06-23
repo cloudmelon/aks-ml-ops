@@ -1,3 +1,2 @@
-# MLOps with AKS
-
+# MLOps with AKS with MSI enabled
 
